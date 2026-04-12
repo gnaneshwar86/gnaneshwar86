@@ -21,20 +21,20 @@
 
 ## 🧠 About Me
 
-```yaml
-name: Gnaneshwar R L
-role: Software Development Engineer
-location: Hosur, Tamil Nadu, India
+💻 I’m a **Software Development Engineer** focused on building **scalable backend systems** using **Java & Spring Boot**.
 
-focus:
-  - Scalable Backend Systems
-  - Microservices Architecture
-  - DevOps & Cloud Deployment
+🚀 I design and develop **production-ready applications** with clean architecture, optimized APIs, and efficient database handling.
 
-currently_learning:
-  - Advanced System Design
-  - Kubernetes & CI/CD Pipelines
-```
+⚡ Strong foundation in **Data Structures, Algorithms, and System Design**, with hands-on experience in solving real-world problems.
+
+☁️ Experienced in **AWS, Docker, and CI/CD**, with a growing focus on **DevOps and cloud-native development**.
+
+🎯 Currently working on improving:
+- Advanced **System Design**
+- **Microservices & Distributed Systems**
+- **Cloud & DevOps (AWS + Docker + CI/CD)**
+
+🧩 I enjoy turning ideas into **real, scalable products** that solve meaningful problems.
 
 ---
 
