@@ -27,12 +27,13 @@
 
 ⚡ Strong foundation in **Data Structures, Algorithms, and System Design**, with hands-on experience in solving real-world problems.
 
-☁️ Experienced in **AWS, Docker, and CI/CD**, with a growing focus on **DevOps and cloud-native development**.
+☁️ Experienced in **AWS, Docker, and CI/CD**, with hands-on experience deploying production-ready applications.
 
 🎯 Currently working on improving:
-- Advanced **System Design**
-- **Microservices & Distributed Systems**
-- **Cloud & DevOps (AWS + Docker + CI/CD)**
+
+* Advanced **System Design**
+* **Microservices & Distributed Systems**
+* **Cloud & DevOps (AWS + Docker + CI/CD)**
 
 🧩 I enjoy turning ideas into **real, scalable products** that solve meaningful problems.
 
@@ -48,6 +49,17 @@
 
 ---
 
+## 💼 Experience
+
+### 🔹 Software Development Engineer (SDE) Intern — Bluestock Fintech
+
+📅 March 2026 – April 2026
+
+* Worked on software development tasks and backend application features in a fintech environment.
+* Gained hands-on experience in real-world software engineering workflows.
+
+---
+
 ## 🚀 Featured Projects (Portfolio Style)
 
 ### 🔹 EventMate – College Event Management System
@@ -55,9 +67,9 @@
 🧩 **Full Stack | Production Ready | Scalable Architecture**
 
 * 🔐 JWT Authentication + RBAC
-* ⚡ Optimized queries, pagination, caching
+* ⚡ Optimized database queries and pagination
 * ☁️ Dockerized & deployed on AWS EC2
-* 🧱 Microservices-style backend
+* 🧱 Scalable microservices-style backend architecture
 
 🔗 [Live Demo](https://eventmate-eta.vercel.app/)
 🔗 [GitHub Repo](https://github.com/gnaneshwar86/EventMate-CollegeEventManagementSystem)
@@ -86,26 +98,13 @@
 
 ---
 
-## 📊 DevOps Dashboard
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gnaneshwar86&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gnaneshwar86&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gnaneshwar86&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 ## 🏆 Achievements & Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gnaneshwar86&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
-* 🧠 Solved **200+ DSA problems**
+* 🧠 Solved **250+ DSA problems on LeetCode**
 * 🏅 SAP Hackfest 2025 – Inter-College Round
 * 🏆 SIH 2024 – College Qualifier
 * 🚀 Built & deployed multiple production apps
@@ -117,6 +116,18 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnaneshwar86&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
+
+## 🎓 Education
+
+### Sri Krishna College of Engineering and Technology
+
+🎓 Bachelor of Engineering – Computer Science and Engineering
+
+📅 2023 – 2027
+
+📈 CGPA: **8.44**
 
 ---
 
